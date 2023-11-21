@@ -1,0 +1,18 @@
+1) Mejorar el modelo UML adjunto: Añadir campos, agrupar en clases (por ejemplo, Deposito), añadir parámetros a los métodos, eliminar atributos repetidos, .... Usar Visual Paradigm CE para dibujar el modelo.
+
+2) Crear las especializaciones de Coche: CocheElectrico, CocheHibrido, CocheCombustion. Añadir una Batería (con algún campo) a CocheElectrico y CocheHibrido.
+
+3) Implementar el modelo en JAVA. 
+
+4) Crear en una clase con metodos de ordenación:
+
+Ordenar los vehículos por su velocidad.
+Ordenar eléctricos o híbridos por la cantidad de carga de la batería
+Ordenar por tipo de combustible en este orden "Gasolina", "Diesel", "Gas"
+Otros.
+5) Crear un main con las siguientes operaciones (sin menús):
+
+Crear 3 objetos de cada clase y añadirlos a una lista.
+Crear una lista con todos los coches incluidos sus subtipos.
+Probar los métodos de ordenación.
+5) Añadir excepciones a los métodos. (ver apuntes excepciones)
